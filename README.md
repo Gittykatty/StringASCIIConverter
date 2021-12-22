@@ -1,2 +1,4 @@
 # StringASCIIConverter
-This is a script for converting an input string into dec and hex ASCII values. Also features a output into 4-Byte blocks (can be adjusted to every number of bytes).
+Script for Converting String Input into ASCII Output.
+Input is a string.
+Output is in dec, hex and 4-Byte hex notation (In example for converting string AES256-Keys into 4-Byte Chunks of ASCII-hex).
